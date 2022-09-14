@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* print_alphabet - Print the alphabet.
+* main - Print the word "_putchar"
 *
-* Return: void.
+* Return: Always 0 (Success)
 */
 
 int main(void)
