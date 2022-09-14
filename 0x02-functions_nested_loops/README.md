@@ -16,8 +16,8 @@ General
     Dont forget to push your header file
 
 Description of Files
-0-holberton.c
-Prints ``Holberton`` followed by a new line, and returns 0.
+0-putchar.c
+Prints ``_putchar`` followed by a new line, and returns 0.
 1-alphabet.c
 Prints the lowercase letters of the alphabet followed by a new line.
 2-print_alphabet_x10.c
