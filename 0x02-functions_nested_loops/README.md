@@ -40,3 +40,5 @@ Prints the 9 times table, starting with zero
 Adds 2 integers and returns the result
 11-print_to_98.c
 Prints all numbers from n to 98 
+main.c
+all code start from here
