@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+* print_alphabet - Print the alphabet.
+*
+* Return: void.
+*/
 
 int main(void)
 {
